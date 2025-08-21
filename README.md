@@ -15,6 +15,6 @@ Python scripts for detecting suspicious URLs and Indicators of Compromise (IOCs)
 
 ## How to Run
 ```bash
-git clone https://github.com/olim-najmedinov/soc-mini-lab.git
+git clone https://github.com/olimnajmedimov/soc-mini-lab.git
 cd soc-mini-lab
 python3 phishing_detector.py
